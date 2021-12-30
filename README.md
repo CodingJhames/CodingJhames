@@ -1,4 +1,4 @@
-# Hi, I'm James 👋:neckbeard: 
+# Hi, I'm James 👋:computer:
 
 A young Attorney from Colombia, becoming Data scientist in process!:computer:
 
