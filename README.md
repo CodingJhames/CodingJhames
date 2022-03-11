@@ -1,6 +1,6 @@
 # Hi, I'm James 👋:computer:
 
-Young Attorney from Colombia, Data scientist in process.
+Young Attorney from Colombia, Web Developer in process.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codingjames/)
