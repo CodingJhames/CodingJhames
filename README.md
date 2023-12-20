@@ -1,4 +1,4 @@
-# Hi, I'm James 👋:computer:
+# Hi, I'm James 👋
 
 Web Developer in process.
 
